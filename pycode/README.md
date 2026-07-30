@@ -8,3 +8,5 @@ source .knn-env/bin/activate
 ## uv
 uv venv .knn-env
 source .knn-env/bin/activate
+
+<h3 id="1-euclidean-distance" style="text-align:left"><span>1. Euclidean Distance</span></h3><p dir="ltr"><span>Euclidean distance is defined as the straight-line distance between two points in a plane or space. You can think of it like the shortest path you would walk if you were to go directly from one point to another.</span></p><blockquote><p dir="ltr"><gfg-tex>d\left( x, X_i \right) = \sqrt{\sum_{j=1}^{n} \left( x_j - X_{ij} \right)^2}</gfg-tex></p></blockquote>
