@@ -1,7 +1,7 @@
 <h1 align="center">Machine Learning: Incremental Learning</h1>
 <p>This repository consists of implementation and experiments that models hybrid machine learning algorithms using <code>K- Nearest Neighbor (KNN)</code> based <strong>incremental and concept drift</strong> techniques and aspects that informs the future discussions of new approaches towards integrating algorithms for forecasting and prediction.</p>
 
-<h3 style="text-align:left"><span>Incremental learning</span></h3>
+<h3 style="text-align:left"><span>Incremental Learning</span></h3>
 <p dir="ltr">Incremental learning is a Machine Learning (ML) approach where models are updated continuously with new data without retraining from scratch. It is used both to handle large or streaming datasets that cannot fit into memory and to enable models to learn new information over time while minimizing catastrophic forgetting of previously learned knowledge.</p>
 
 <h3 style="text-align:left"><span>Modelling the KNN classification distance measure</span></h3>
