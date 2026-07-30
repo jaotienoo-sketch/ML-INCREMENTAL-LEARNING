@@ -18,3 +18,5 @@ the distances in regression.</p>
 <li> Computing the number if data points among (𝑘) neighbors</li>
 <li> The new data points are then assigned to the maximum neighbor category</li>
 </ul>
+
+### Key Algorithm
