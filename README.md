@@ -20,8 +20,7 @@ the distances in regression.</p>
 </ul>
 
 ### Key Algorithm
-<p><code>
-Algorithm 1: Determine maximum classification accuracy using corresponding 𝑘−𝑣𝑎𝑙𝑢𝑒𝑠 for distance metrics.
+<p><code>Algorithm 1: Determine maximum classification accuracy using corresponding 𝑘−𝑣𝑎𝑙𝑢𝑒𝑠 for distance metrics.
 Input: Determine the datasets and class labels in the datasets as in the rate of 𝑥 𝑎𝑛𝑑 𝑦 respectively. Undertake the 𝑡𝑟𝑎𝑖𝑛 − 𝑡𝑒𝑠𝑡_𝑠𝑝𝑙𝑖𝑡𝑠 on 𝑥 𝑎𝑛𝑑 𝑦 and test the size "𝑡𝑒𝑠𝑡_𝑠𝑖𝑧𝑒" as a function of 𝛽. Assign the values corresponding to 𝑥𝑡𝑟𝑎𝑖𝑛 , 𝑥𝑡𝑒𝑠𝑡 , 𝑎𝑛𝑑 𝑦𝑡𝑒𝑠𝑡 .
 Output: Max classification accuracy for determining the corresponding 𝑘−𝑣𝑎𝑙𝑢𝑒 for the distance metrics.
 1: CLASSIFICATION_DISTANCE METRICS ={ Jaccard, Euclidean distance, Local Mean Euclidean, Chebyshevs, Hamming, Minkowski, Manhattan, Cosine }.
